@@ -63,40 +63,40 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero>
         <BigTitle>
-          Hello, <br /> I'm John Doe.
+          Hello, <br /> I'm Tushar Borole.
         </BigTitle>
-        <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
+        <Subtitle>I'm Full Stack developer, who wants to automate everything.</Subtitle>
       </Hero>
       <Projects>
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="Freiheit"
-            link="https://www.behance.net/gallery/58937147/Freiheit"
+            title="KQED"
+            link="https://www.kqed.org"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            This project is my entry to Adobe's #ChallengeYourPerspective contest.
+            Most visited site in Public media industry
           </ProjectCard>
           <ProjectCard
-            title="Harry Potter"
-            link="https://www.behance.net/gallery/52915793/Harry-Potter"
+            title="Sweet Alert"
+            link="https://github.com/tushariscoolster/ng-sweet-alert"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            I entered the DOCMA 2017 award with this Harry Potter inspired image.
+            Very sweet and open source alert.
           </ProjectCard>
           <ProjectCard
-            title="Tomb Raider"
-            link="https://www.behance.net/gallery/43907099/Tomb-Raider"
+            title="Duallist"
+            link="https://github.com/tushariscoolster/ng-duallist"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            Recreation of a Tomb Raider Wallpaper (Fan Art)
+            Angular dual list directive with lazy load support
           </ProjectCard>
           <ProjectCard
-            title="Eagle"
-            link="https://www.behance.net/gallery/38068151/Eagle"
+            title="Hospital Management System"
+            link="https://github.com/tushariscoolster/HospitalManagementSystem"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            A fantasy image manipulation relocating the habitat of wild animals.
+            Flask app to manage hospital
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
@@ -122,15 +122,11 @@ const Index = () => (
           <Title>Get in touch</Title>
           <ContactText>
             Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
-            <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
-            <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
+            <a href="https://github.com/tushariscoolster">Github</a> &{' '}
+            <a href="https://www.linkedin.com/in/tusharborole/">Link</a>
           </ContactText>
         </Inner>
-        <Footer>
-          &copy; 2018 by Gatsby Starter Portfolio Cara.{' '}
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>. Made by{' '}
-          <a href="https://www.lekoarts.de">LekoArts</a>.
-        </Footer>
+        <Footer>Made in India</Footer>
       </Contact>
     </Parallax>
   </>
