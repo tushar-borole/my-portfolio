@@ -126,7 +126,7 @@ const Index = () => (
             <a href="https://www.linkedin.com/in/tusharborole/">Link</a>
           </ContactText>
         </Inner>
-        <Footer>Made in India</Footer>
+        <Footer>Made in San Francisco</Footer>
       </Contact>
     </Parallax>
   </>
